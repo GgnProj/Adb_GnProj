@@ -1,6 +1,6 @@
 # Struktur Proyek dan Peta Layar ADB GnProj
 
-![Tema Drak](img/drak.jpg)
+![Tema Drak](img/drak.png)
 ![Tema Light](img/light.png)
 ![miror mode](img/device-mirror.png)
 ![layar penuh](img/mirror-layar-penuh.png)

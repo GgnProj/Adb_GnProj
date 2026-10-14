@@ -1,10 +1,10 @@
 # Struktur Proyek dan Peta Layar ADB GnProj
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <div style="width: 48%;">[![Tema Drak](img/drak.png)](img/drak.png)</div>
-  <div style="width: 48%;">[![Tema Light](img/light.png)](img/light.png)</div>
-  <div style="width: 48%;">[![miror mode](img/device-mirror.png)](img/device-mirror.png)</div>
-  <div style="width: 48%;">[![layar penuh](img/mirror-layar-penuh.png)](img/mirror-layar-penuh.png)</div>
+  <a href="img/drak.png" target="_blank" style="width: 48%;"><img src="img/drak.png" alt="Tema Drak" style="width: 100%;"></a>
+  <a href="img/light.png" target="_blank" style="width: 48%;"><img src="img/light.png" alt="Tema Light" style="width: 100%;"></a>
+  <a href="img/device-mirror.png" target="_blank" style="width: 48%;"><img src="img/device-mirror.png" alt="miror mode" style="width: 100%;"></a>
+  <a href="img/mirror-layar-penuh.png" target="_blank" style="width: 48%;"><img src="img/mirror-layar-penuh.png" alt="layar penuh" style="width: 100%;"></a>
 </div>
 
 

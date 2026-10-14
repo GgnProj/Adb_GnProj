@@ -1,12 +1,33 @@
 # Struktur Proyek dan Peta Layar ADB GnProj
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="img/drak.png" target="_blank" style="width: 48%;"><img src="img/drak.png" alt="Tema Drak" style="width: 100%;"></a>
-  <a href="img/light.png" target="_blank" style="width: 48%;"><img src="img/light.png" alt="Tema Light" style="width: 100%;"></a>
-  <a href="img/device-mirror.png" target="_blank" style="width: 48%;"><img src="img/device-mirror.png" alt="miror mode" style="width: 100%;"></a>
-  <a href="img/mirror-layar-penuh.png" target="_blank" style="width: 48%;"><img src="img/mirror-layar-penuh.png" alt="layar penuh" style="width: 100%;"></a>
-</div>
+# Struktur Proyek dan Peta Layar ADB GnProj
 
+<table>
+  <tr>
+    <td>
+      <a href="img/drak.png" target="_blank">
+        <img src="img/drak.png" alt="Tema Drak" width="100%">
+      </a>
+    </td>
+    <td>
+      <a href="img/light.png" target="_blank">
+        <img src="img/light.png" alt="Tema Light" width="100%">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="img/device-mirror.png" target="_blank">
+        <img src="img/device-mirror.png" alt="miror mode" width="100%">
+      </a>
+    </td>
+    <td>
+      <a href="img/mirror-layar-penuh.png" target="_blank">
+        <img src="img/mirror-layar-penuh.png" alt="layar penuh" width="100%">
+      </a>
+    </td>
+  </tr>
+</table>
 
 Dokumen ini menggambarkan susunan aplikasi yang ada saat ini. ADB GnProj adalah aplikasi desktop Electron + React; navigasi utamanya **bukan URL route** dan tidak memakai React Router. Perpindahan halaman utama menggunakan state `page` di `src/main.jsx`. Parameter query `window` dipakai untuk memilih layar khusus pada jendela Electron.
 

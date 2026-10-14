@@ -1,7 +1,5 @@
 # Struktur Proyek dan Peta Layar ADB GnProj
 
-# Struktur Proyek dan Peta Layar ADB GnProj
-
 <table>
   <tr>
     <td>

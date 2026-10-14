@@ -1,9 +1,11 @@
 # Struktur Proyek dan Peta Layar ADB GnProj
 
-![Tema Drak](img/drak.png)
-![Tema Light](img/light.png)
-![miror mode](img/device-mirror.png)
-![layar penuh](img/mirror-layar-penuh.png)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <div style="width: 48%;">[![Tema Drak](img/drak.png)](img/drak.png)</div>
+  <div style="width: 48%;">[![Tema Light](img/light.png)](img/light.png)</div>
+  <div style="width: 48%;">[![miror mode](img/device-mirror.png)](img/device-mirror.png)</div>
+  <div style="width: 48%;">[![layar penuh](img/mirror-layar-penuh.png)](img/mirror-layar-penuh.png)</div>
+</div>
 
 
 Dokumen ini menggambarkan susunan aplikasi yang ada saat ini. ADB GnProj adalah aplikasi desktop Electron + React; navigasi utamanya **bukan URL route** dan tidak memakai React Router. Perpindahan halaman utama menggunakan state `page` di `src/main.jsx`. Parameter query `window` dipakai untuk memilih layar khusus pada jendela Electron.
